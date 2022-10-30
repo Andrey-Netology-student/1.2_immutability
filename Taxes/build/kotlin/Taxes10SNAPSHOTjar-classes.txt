@@ -1,0 +1,1 @@
+C:\Users\andre\Desktop\Second-Home-work\Taxes\build\classes\kotlin\main\LikesKt.class;C:\Users\andre\Desktop\Second-Home-work\Taxes\build\classes\kotlin\main\MoneyTransfersKt.class;C:\Users\andre\Desktop\Second-Home-work\Taxes\build\classes\kotlin\main\MusicLoverKt.class
